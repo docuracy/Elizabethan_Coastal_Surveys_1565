@@ -1,5 +1,5 @@
 cff-version: 1.1.0
-message: "This dataset provides information about Elizabethan Coastal Surveys conducted in 1565."
+message: "If you use this software, please cite it as below."
 authors:
   - family-names: Gadd
     given-names: Stephen James
