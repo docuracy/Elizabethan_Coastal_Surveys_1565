@@ -1,9 +1,12 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: 'Elizabethan Coastal Surveys, 1565'
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
 authors:
-  - family-names: Gadd
-    given-names: Stephen James
-    orcid: https://orcid.org/0000-0003-3060-0181
-title: "Elizabethan Coastal Surveys, 1565"
-version: 0.0.2-alpha
-date-released: 2024-02-10
+  - given-names: Stephen James
+    family-names: Gadd
+    email: stephen@docuracy.co.uk
+    affiliation: Viae Regiae
+    orcid: 'https://orcid.org/0000-0003-3060-0181'
