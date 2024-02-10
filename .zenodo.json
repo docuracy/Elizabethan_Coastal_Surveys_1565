@@ -1,0 +1,78 @@
+{
+  "contributors": [
+  ],
+  "title": "Elizabethan Coastal Surveys, 1565",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://discovery.nationalarchives.gov.uk/details/r/C2319327",
+      "relation": "isReferencedBy",
+      "resource_type": "manuscript-catalog",
+      "catalogue_reference": "E 159/340"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://discovery.nationalarchives.gov.uk/details/r/C2319337",
+      "relation": "isReferencedBy",
+      "resource_type": "manuscript-catalog",
+      "catalogue_reference": "E 159/350"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://discovery.nationalarchives.gov.uk/details/r/C5143122",
+      "relation": "isReferencedBy",
+      "resource_type": "manuscript-catalog",
+      "catalogue_reference": " E 178/1926"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://discovery.nationalarchives.gov.uk/details/r/C13554",
+      "relation": "isReferencedBy",
+      "resource_type": "manuscript-catalog",
+      "catalogue_reference": "SP 12"
+    }
+  ],
+  "communities": [
+    {
+      "id": "gis"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "gazetteer",
+      "scheme": "url",
+      "identifier": "https://www.wikidata.org/wiki/Q1006160"
+    },
+    {
+      "term": "Historical GIS",
+      "scheme": "url",
+      "identifier": "https://www.wikidata.org/wiki/Q57243082"
+    }
+  ],
+  "references": [
+
+  ],
+  "keywords": [
+    "GIS",
+    "historical",
+    "gazetteer",
+    "england",
+    "wales",
+    "place-names",
+    "early modern",
+    "map",
+    "ports",
+    "quays"
+  ],
+  "creators": [
+    {
+      "orcid": "0000-0003-3060-0181",
+      "affiliation": "Viae Regiae",
+      "name": "Gadd, Stephen James"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "description": "<p>This geolocated dataset derives from several surveys commissioned by the English Crown in 1565, enquiring into the state of the various ports, landing places, and coastal communities of England and Wales.</p>"
+}
