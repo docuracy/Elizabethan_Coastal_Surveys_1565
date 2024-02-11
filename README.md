@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10645537.svg)](https://doi.org/10.5281/zenodo.10645537)
 # Elizabethan Coastal Surveys, 1565
 
 ![image](https://github.com/docuracy/Elizabethan_Coastal_Surveys_1565/assets/42514781/aa15b0ca-cbfe-4cec-b7c6-6b33d02e87ae)
