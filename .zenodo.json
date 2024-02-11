@@ -1,6 +1,4 @@
 {
-  "contributors": [
-  ],
   "title": "Elizabethan Coastal Surveys, 1565",
   "language": "eng",
   "related_identifiers": [
@@ -41,9 +39,6 @@
       "scheme": "url",
       "identifier": "https://www.wikidata.org/wiki/Q57243082"
     }
-  ],
-  "references": [
-
   ],
   "keywords": [
     "GIS",
