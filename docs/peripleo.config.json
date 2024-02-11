@@ -7,6 +7,28 @@
   ],
   "layers": [
     {
+        "id": "background",
+        "type": "background",
+        "paint": {
+            "background-color": {
+                "stops": [
+                    [
+                        5,
+                        "rgba(239, 245, 231, 1)"
+                    ],
+                    [
+                        14,
+                        "rgba(242, 243, 242, 1)"
+                    ]
+                ]
+            }
+        },
+        "layout": {
+            "visibility": "visible"
+        },
+        "minzoom": 0
+    },
+    {
       "name": "Open Street Map",
       "type": "raster",
       "tiles": [
@@ -61,7 +83,13 @@
     }
   ],
   "facets":[
-	  { "name": "Legal Quays", "path": ["properties", "legal_quay_1566"] },
+  	  "dataset",
+	  {
+		  "properties": [
+		    { "legal_quay_1566": [ true ] },
+		    { "legal_quay_1566": [ false, null ] }
+		  ]
+      },
 	  { "name": "Head Ports", "path": ["properties", "head_port"] }
   ],
   "link_icons": [
