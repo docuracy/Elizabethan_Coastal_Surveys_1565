@@ -1,0 +1,1159 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.591462,
+                    51.604312
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?20",
+            "properties": {
+                "coast_miles": "77",
+                "commissioners": "",
+                "id": "20",
+                "sources": [
+                    {
+                        "date": "",
+                        "folio": "",
+                        "notes": "",
+                        "reference": ""
+                    }
+                ],
+                "title": "Glamorgan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.070468,
+                    52.254225
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?8",
+            "properties": {
+                "coast_miles": "47",
+                "commissioners": [
+                    {
+                        "forename": "_hon",
+                        "surname": "P_",
+                        "title": ""
+                    },
+                    {
+                        "forename": "Hughe",
+                        "surname": "ap _ Lloyd",
+                        "title": ""
+                    },
+                    {
+                        "forename": "_wart",
+                        "surname": "Pow_",
+                        "title": ""
+                    },
+                    {
+                        "forename": "David",
+                        "surname": "ap Jevion Lloyd",
+                        "title": ""
+                    }
+                ],
+                "id": "8",
+                "sources": [
+                    {
+                        "date": "2 Jan 1566",
+                        "folio": "1-4",
+                        "notes": "The castles of Cardigan and Aberystwith 'beinge great annctient Casels in Great Ruine & Decayes'. No vessels except fishing boats of 4 or 5 tons each manned by 6 or 7 fishermen (not mariners), used to catch herring after Michaelmas.",
+                        "reference": "SP 12/39"
+                    }
+                ],
+                "title": "Cardiganshire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.373647,
+                    53.287929
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?1",
+            "properties": {
+                "coast_miles": "82",
+                "commissioners": "",
+                "id": "1",
+                "sources": "[{\"reference\": \"SP 12/39\",\"date\": \"\",\"folio\": \"76\",\"notes\": \"No report for the west side of Anglesey, south of Holyhead and including Aberffraw and Malltraeth. BL Otho lists on this section of coast at an earlier period, '\"The roode of St. Donwen is forland,\" and the three enterings there; the bay of Malltrayth, and the crick in the midst of the said bay; the crick of Aberfrowe; the crick of Crigille; the crick of Kemyran; the bay of Roscollyn, and the roode of the said forland of ...; St. Bride's bay'.\"}]",
+                "title": "Anglesey"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.158939,
+                    53.050649
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?6",
+            "properties": {
+                "coast_miles": "101",
+                "commissioners": [
+                    {
+                        "forename": "Maurice",
+                        "surname": "Wynn",
+                        "title": ""
+                    },
+                    {
+                        "forename": "William",
+                        "surname": "Elyn",
+                        "title": ""
+                    },
+                    {
+                        "forename": "John",
+                        "surname": "Wynn ap Hugh",
+                        "title": ""
+                    }
+                ],
+                "id": "6",
+                "sources": [
+                    {
+                        "date": "",
+                        "folio": "75",
+                        "notes": "",
+                        "reference": "SP 12/39"
+                    }
+                ],
+                "title": "Caernarfonshire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.953931,
+                    52.669751
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?34",
+            "properties": {
+                "coast_miles": "83",
+                "commissioners": [
+                    {
+                        "forename": "Christopher",
+                        "surname": "Heydon",
+                        "title": ""
+                    },
+                    {
+                        "forename": "William",
+                        "surname": "Paston",
+                        "title": ""
+                    },
+                    {
+                        "forename": "Osbert",
+                        "surname": "Monndeford",
+                        "title": ""
+                    }
+                ],
+                "id": "34",
+                "sources": [
+                    {
+                        "date": "10 Nov 1565",
+                        "folio": "189-191",
+                        "notes": "Landing places and deputies",
+                        "reference": "SP 12/37"
+                    },
+                    {
+                        "date": "9 Dec 1565",
+                        "folio": "13-38",
+                        "notes": "Vessels",
+                        "reference": "SP 12/38"
+                    }
+                ],
+                "title": "Norfolk"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.637281,
+                    54.456971
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?49",
+            "properties": {
+                "coast_miles": "5",
+                "commissioners": "",
+                "id": "49",
+                "sources": [
+                    {
+                        "date": "",
+                        "folio": "",
+                        "notes": "",
+                        "reference": ""
+                    }
+                ],
+                "title": "Westmorland"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.293179,
+                    51.024482
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?22",
+            "properties": {
+                "coast_miles": "104",
+                "commissioners": [
+                    {
+                        "forename": "John",
+                        "surname": "St John",
+                        "title": "Lord"
+                    },
+                    {
+                        "forename": "William",
+                        "surname": "Keylway",
+                        "title": "Sir"
+                    },
+                    {
+                        "forename": "John",
+                        "surname": "Barklye",
+                        "title": "kt"
+                    },
+                    {
+                        "forename": "John",
+                        "surname": "Brodocke",
+                        "title": ""
+                    },
+                    {
+                        "forename": "John",
+                        "surname": "White",
+                        "title": "Esq"
+                    },
+                    {
+                        "forename": "William",
+                        "surname": "Uvedale",
+                        "title": "Esq"
+                    },
+                    {
+                        "forename": "William",
+                        "surname": "Kyngesmill",
+                        "title": "Esq"
+                    },
+                    {
+                        "forename": "James",
+                        "surname": "Parfett",
+                        "title": "Esq"
+                    }
+                ],
+                "id": "22",
+                "sources": [
+                    {
+                        "date": "-",
+                        "folio": "-99",
+                        "notes": "Nothing for Isle of Wight",
+                        "reference": "SP 12/38"
+                    }
+                ],
+                "title": "Hampshire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.836714,
+                    50.401921
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?11",
+            "properties": {
+                "coast_miles": "223",
+                "commissioners": "",
+                "id": "11",
+                "sources": [
+                    {
+                        "date": "",
+                        "folio": "",
+                        "notes": "",
+                        "reference": ""
+                    }
+                ],
+                "title": "Cornwall"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.342588,
+                    50.804916
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?16",
+            "properties": {
+                "coast_miles": "65",
+                "commissioners": [
+                    {
+                        "forename": "William",
+                        "surname": "Poulett",
+                        "title": "Sir"
+                    },
+                    {
+                        "forename": "Henry ",
+                        "surname": "Ashley",
+                        "title": "Sir"
+                    },
+                    {
+                        "forename": "Robert",
+                        "surname": "Coker",
+                        "title": ""
+                    },
+                    {
+                        "forename": "George",
+                        "surname": "Rogers",
+                        "title": ""
+                    }
+                ],
+                "id": "16",
+                "sources": [
+                    {
+                        "date": "12 Dec 1565",
+                        "folio": "44r-57r",
+                        "notes": "",
+                        "reference": "SP 12/38"
+                    }
+                ],
+                "title": "Dorset"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.398485,
+                    53.066533
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?13",
+            "properties": {
+                "coast_miles": "9",
+                "commissioners": "",
+                "id": "13",
+                "sources": [
+                    {
+                        "date": "8 Feb 1566",
+                        "folio": "99",
+                        "notes": "Included in Flintshire (Vorryd = Foryd at Rhuddlan)",
+                        "reference": "SP 12/39"
+                    }
+                ],
+                "title": "Denbighshire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.877109,
+                    51.1492
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?43",
+            "properties": {
+                "coast_miles": "61",
+                "commissioners": "",
+                "id": "43",
+                "sources": [
+                    {
+                        "date": "",
+                        "folio": "",
+                        "notes": "",
+                        "reference": ""
+                    }
+                ],
+                "title": "Somerset"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.068997,
+                    52.225058
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?45",
+            "properties": {
+                "coast_miles": "57",
+                "commissioners": [
+                    {
+                        "forename": "Owyn",
+                        "surname": "Hopton",
+                        "title": "Sir"
+                    },
+                    {
+                        "forename": "Robert",
+                        "surname": "Wyngfeld",
+                        "title": "Sir"
+                    },
+                    {
+                        "forename": "John",
+                        "surname": "Blenhayset",
+                        "title": "Esq"
+                    },
+                    {
+                        "forename": "Edwarde",
+                        "surname": "Grymeston",
+                        "title": "Esq"
+                    }
+                ],
+                "id": "45",
+                "sources": [
+                    {
+                        "date": "10 Nov 1565",
+                        "folio": "192-195",
+                        "notes": "",
+                        "reference": "SP 12/37"
+                    },
+                    {
+                        "date": "21 Jan 1566",
+                        "folio": "52-",
+                        "notes": "",
+                        "reference": "SP 12/39"
+                    }
+                ],
+                "title": "Suffolk"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.718726,
+                    54.79907
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?17",
+            "properties": {
+                "coast_miles": "48",
+                "commissioners": [
+                    {
+                        "forename": "James",
+                        "surname": "",
+                        "title": "Bishop of Durham"
+                    },
+                    {
+                        "forename": "George",
+                        "surname": "Bowes",
+                        "title": "Sir"
+                    },
+                    {
+                        "forename": "Thomas ",
+                        "surname": "Cayt*",
+                        "title": "Esq"
+                    },
+                    {
+                        "forename": "Gerard",
+                        "surname": "Salven*",
+                        "title": "Esq"
+                    }
+                ],
+                "id": "17",
+                "sources": [
+                    {
+                        "date": "26 Nov 1565",
+                        "folio": "217",
+                        "notes": "",
+                        "reference": "SP 15/12"
+                    }
+                ],
+                "title": "Durham"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.295237,
+                    53.185681
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?29",
+            "properties": {
+                "coast_miles": "94",
+                "commissioners": [
+                    {
+                        "forename": "Edward",
+                        "surname": "Dymok",
+                        "title": "kt"
+                    },
+                    {
+                        "forename": "Robert",
+                        "surname": "Tyrwytt",
+                        "title": "kt"
+                    },
+                    {
+                        "forename": "Robert",
+                        "surname": "Carre",
+                        "title": "Esq"
+                    },
+                    {
+                        "forename": "Adlard",
+                        "surname": "Welbye",
+                        "title": "Esq"
+                    }
+                ],
+                "id": "29",
+                "sources": [
+                    {
+                        "date": "28 Dec 1565",
+                        "folio": "117-120",
+                        "notes": "",
+                        "reference": "SP 12/38"
+                    }
+                ],
+                "title": "Lincolnshire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.340986,
+                    54.023262
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?52",
+            "properties": {
+                "coast_miles": "133",
+                "commissioners": "",
+                "id": "52",
+                "sources": [
+                    {
+                        "date": "",
+                        "folio": "",
+                        "notes": "See annotations in Burghley Atlas",
+                        "reference": ""
+                    }
+                ],
+                "title": "Yorkshire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.793519,
+                    52.827801
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?30",
+            "properties": {
+                "coast_miles": "35",
+                "commissioners": [
+                    {
+                        "forename": "Owen",
+                        "surname": "Vaughan",
+                        "title": ""
+                    },
+                    {
+                        "forename": "John",
+                        "surname": "Salisbury",
+                        "title": ""
+                    },
+                    {
+                        "forename": "John",
+                        "surname": "Owen",
+                        "title": ""
+                    },
+                    {
+                        "forename": "Gruff",
+                        "surname": "Glyn",
+                        "title": ""
+                    }
+                ],
+                "id": "30",
+                "sources": [
+                    {
+                        "date": "31 Dec 1565",
+                        "folio": "138-139",
+                        "notes": "",
+                        "reference": "SP 12/35"
+                    }
+                ],
+                "title": "Merionethshire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.653473,
+                    53.776677
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?27",
+            "properties": {
+                "coast_miles": "128",
+                "commissioners": "",
+                "id": "27",
+                "sources": [
+                    {
+                        "date": "",
+                        "folio": "",
+                        "notes": "",
+                        "reference": ""
+                    }
+                ],
+                "title": "Lancashire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.055381,
+                    55.212723
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?36",
+            "properties": {
+                "coast_miles": "53",
+                "commissioners": "",
+                "id": "36",
+                "sources": [
+                    {
+                        "date": "",
+                        "folio": "",
+                        "notes": "",
+                        "reference": ""
+                    }
+                ],
+                "title": "Northumberland"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.886627,
+                    51.856499
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?39",
+            "properties": {
+                "coast_miles": "120",
+                "commissioners": [
+                    {
+                        "forename": "Thomas",
+                        "surname": "Catharne",
+                        "title": ""
+                    },
+                    {
+                        "forename": "John",
+                        "surname": "Rastall",
+                        "title": ""
+                    }
+                ],
+                "id": "39",
+                "sources": [
+                    {
+                        "date": "8 Jan 1566",
+                        "folio": "13-17v",
+                        "notes": "Includes (f.17) a report of a 60-ton pirate ship in the haven of Milford.",
+                        "reference": "SP 12/39"
+                    }
+                ],
+                "title": "Pembrokeshire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.948306,
+                    51.718152
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?32",
+            "properties": {
+                "coast_miles": "21",
+                "commissioners": "",
+                "id": "32",
+                "sources": [
+                    {
+                        "date": "",
+                        "folio": "",
+                        "notes": "",
+                        "reference": ""
+                    }
+                ],
+                "title": "Monmouthshire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.173575,
+                    51.785225
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?21",
+            "properties": {
+                "coast_miles": "8",
+                "commissioners": "",
+                "id": "21",
+                "sources": [
+                    {
+                        "date": "",
+                        "folio": "",
+                        "notes": "",
+                        "reference": ""
+                    }
+                ],
+                "title": "Gloucestershire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.8186,
+                    50.753728
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?15",
+            "properties": {
+                "coast_miles": "155",
+                "commissioners": "",
+                "id": "15",
+                "sources": [
+                    {
+                        "date": "",
+                        "folio": "",
+                        "notes": "",
+                        "reference": ""
+                    }
+                ],
+                "title": "Devon"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.029808,
+                    54.726397
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?12",
+            "properties": {
+                "coast_miles": "33",
+                "commissioners": [
+                    {
+                        "forename": "Henry",
+                        "surname": "Scrope",
+                        "title": ""
+                    },
+                    {
+                        "forename": "Henry",
+                        "surname": "Curwen",
+                        "title": ""
+                    },
+                    {
+                        "forename": "John",
+                        "surname": "Aylienbye",
+                        "title": ""
+                    },
+                    {
+                        "forename": "George",
+                        "surname": "Lamplighte",
+                        "title": ""
+                    }
+                ],
+                "id": "12",
+                "sources": [
+                    {
+                        "date": "20 Apr 1566",
+                        "folio": "19r-20r",
+                        "notes": "Fishermen living distant from the coast own boats of 1 ton, occupied by 4-6 men, catching herring & killinges. They do not use the creeks but land at their liberty elsewhere. At fishing time some vessels come from Chester, Liverpool and elsewhere bringing salt, iron, 'refuse wynes', and sometimes wines from Scotland for the provision of the honourable and worshipful houses of the county.",
+                        "reference": "SP 15/13"
+                    }
+                ],
+                "title": "Cumberland"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.133045,
+                    52.338353
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?7",
+            "properties": {
+                "coast_miles": "",
+                "commissioners": "",
+                "id": "7",
+                "sources": [
+                    {
+                        "date": "",
+                        "folio": "",
+                        "notes": "",
+                        "reference": ""
+                    }
+                ],
+                "title": "Cambridgeshire (Isle of Ely)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.674914,
+                    51.243267
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?26",
+            "properties": {
+                "coast_miles": "92",
+                "commissioners": [
+                    {
+                        "forename": "William",
+                        "surname": "Cobham",
+                        "title": ""
+                    },
+                    {
+                        "forename": "Thomas",
+                        "surname": "Cotton",
+                        "title": ""
+                    },
+                    {
+                        "forename": "Thomas",
+                        "surname": "Wotton",
+                        "title": ""
+                    },
+                    {
+                        "forename": "Thomas",
+                        "surname": "Scotte",
+                        "title": ""
+                    },
+                    {
+                        "forename": "Humphrey",
+                        "surname": "Hal_",
+                        "title": ""
+                    },
+                    {
+                        "forename": "William",
+                        "surname": "Cromer",
+                        "title": ""
+                    },
+                    {
+                        "forename": "John",
+                        "surname": "Tufton",
+                        "title": ""
+                    }
+                ],
+                "id": "26",
+                "sources": [
+                    {
+                        "date": "18 Mar 1566",
+                        "folio": "177-178",
+                        "notes": "",
+                        "reference": "BL Stowe MS 570/34"
+                    }
+                ],
+                "title": "Kent"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.135253,
+                    50.948168
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?47",
+            "properties": {
+                "coast_miles": "87",
+                "commissioners": [
+                    {
+                        "forename": "John",
+                        "surname": "Thetcher",
+                        "title": ""
+                    },
+                    {
+                        "forename": "Thomas",
+                        "surname": "Parker",
+                        "title": ""
+                    },
+                    {
+                        "forename": "Thomas",
+                        "surname": "Roberts",
+                        "title": ""
+                    },
+                    {
+                        "forename": "Edward",
+                        "surname": "Bellyngham",
+                        "title": ""
+                    },
+                    {
+                        "forename": "John",
+                        "surname": "Apsley",
+                        "title": ""
+                    },
+                    {
+                        "forename": "George",
+                        "surname": "Goring",
+                        "title": ""
+                    },
+                    {
+                        "forename": "Richard ",
+                        "surname": "Elryngton",
+                        "title": ""
+                    },
+                    {
+                        "forename": "Thomas",
+                        "surname": "Palmer",
+                        "title": "Sir"
+                    },
+                    {
+                        "forename": "Henry",
+                        "surname": "Goringe",
+                        "title": "Esq"
+                    },
+                    {
+                        "forename": "William",
+                        "surname": "Dawtrye",
+                        "title": "Esq"
+                    },
+                    {
+                        "forename": "Henry",
+                        "surname": "Marvyne",
+                        "title": "Esq"
+                    }
+                ],
+                "id": "47",
+                "sources": [
+                    {
+                        "date": "30 Dec 1565",
+                        "folio": "129-135",
+                        "notes": "Rapes of Pevensey & Hastings",
+                        "reference": "SP 12/38"
+                    },
+                    {
+                        "date": "15 Jan 1566",
+                        "folio": "132-135",
+                        "notes": "Rapes of Bramber & Lewes",
+                        "reference": "SP 12/39"
+                    },
+                    {
+                        "date": "Jan 1566",
+                        "folio": "137-142",
+                        "notes": "Rapes of Chichester & Arundell. See also list of mariners in Chichester and other Sussex ports, 1561 [SuHC/LM/488].",
+                        "reference": "SP 12/39"
+                    }
+                ],
+                "title": "Sussex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.274354,
+                    51.549341
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?31",
+            "properties": {
+                "coast_miles": "",
+                "commissioners": "",
+                "id": "31",
+                "sources": [
+                    {
+                        "date": "",
+                        "folio": "",
+                        "notes": "",
+                        "reference": ""
+                    }
+                ],
+                "title": "Middlesex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.161742,
+                    51.906022
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?9",
+            "properties": {
+                "coast_miles": "21",
+                "commissioners": [
+                    {
+                        "forename": "R",
+                        "surname": "Menevey",
+                        "title": ""
+                    },
+                    {
+                        "forename": "Thomas",
+                        "surname": "Vaughan",
+                        "title": ""
+                    },
+                    {
+                        "forename": "Davith",
+                        "surname": "Vaughan",
+                        "title": ""
+                    }
+                ],
+                "id": "9",
+                "sources": [
+                    {
+                        "date": "1 Feb 1566",
+                        "folio": "96-98",
+                        "notes": "",
+                        "reference": "SP 12/39"
+                    }
+                ],
+                "title": "Carmarthenshire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.501779,
+                    53.232367
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?10",
+            "properties": {
+                "coast_miles": "40",
+                "commissioners": "",
+                "id": "10",
+                "sources": [
+                    {
+                        "date": "",
+                        "folio": "",
+                        "notes": "",
+                        "reference": ""
+                    }
+                ],
+                "title": "Cheshire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.519932,
+                    51.781505
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?18",
+            "properties": {
+                "coast_miles": "65",
+                "commissioners": "",
+                "id": "18",
+                "sources": [
+                    {
+                        "date": "Jan 1566",
+                        "folio": "72-80",
+                        "notes": "Enumeration totals are given by parish.",
+                        "reference": "SP 12/39"
+                    }
+                ],
+                "title": "Essex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.153523,
+                    53.174681
+                ],
+                "type": "Point"
+            },
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?county=?19",
+            "properties": {
+                "coast_miles": "22",
+                "commissioners": [
+                    {
+                        "forename": "Thomas",
+                        "surname": "Assaphen",
+                        "title": ""
+                    },
+                    {
+                        "forename": "William",
+                        "surname": "Mony_",
+                        "title": ""
+                    },
+                    {
+                        "forename": "Pe_",
+                        "surname": "Asoft_",
+                        "title": ""
+                    }
+                ],
+                "id": "19",
+                "sources": [
+                    {
+                        "date": "8 Feb 1566",
+                        "folio": "99",
+                        "notes": "",
+                        "reference": "SP 12/39"
+                    }
+                ],
+                "title": "Flintshire"
+            },
+            "type": "Feature"
+        }
+    ],
+    "name": "State Papers (Counties) spatial",
+    "type": "FeatureCollection"
+}
