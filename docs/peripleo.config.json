@@ -42,13 +42,27 @@
   ],
   "data": [
     {
-      "name": "MonasteryQuest", 
+      "name": "Exchequer Surveys", 
       "format": "LINKED_PLACES", 
       "src": "./data/Exchequer spatial.geojson",
+      "attribution":"<a href=\"https://github.com/docuracy/Elizabethan_Coastal_Surveys_1565\" target=\"_blank\">Elizabethan Coastal Surveys, 1565</a> © Dr Stephen Gadd"
+    },
+    {
+      "name": "State Paper Surveys (Counties)", 
+      "format": "LINKED_PLACES", 
+      "src": "./data/State Papers (Counties) spatial.geojson",
+      "attribution":"<a href=\"https://github.com/docuracy/Elizabethan_Coastal_Surveys_1565\" target=\"_blank\">Elizabethan Coastal Surveys, 1565</a> © Dr Stephen Gadd"
+    },
+    {
+      "name": "State Paper Surveys (Places)", 
+      "format": "LINKED_PLACES", 
+      "src": "./data/State Papers (Places) spatial.geojson",
       "attribution":"<a href=\"https://github.com/docuracy/Elizabethan_Coastal_Surveys_1565\" target=\"_blank\">Elizabethan Coastal Surveys, 1565</a> © Dr Stephen Gadd"
     }
   ],
   "facets":[
+	  { "name": "Legal Quays", "path": ["properties", "legal_quay_1566"] },
+	  { "name": "Head Ports", "path": ["properties", "head_port"] }
   ],
   "link_icons": [
 	    {
