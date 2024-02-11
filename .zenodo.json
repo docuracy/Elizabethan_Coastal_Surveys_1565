@@ -1,31 +1,30 @@
 {
   "title": "Elizabethan Coastal Surveys, 1565",
-  "language": "eng",
   "related_identifiers": [
     {
       "identifier": "https://discovery.nationalarchives.gov.uk/details/r/C2319327",
-      "relation": "isReferencedBy",
-      "resource_type": "publication-manuscript"
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
     },
     {
       "identifier": "https://discovery.nationalarchives.gov.uk/details/r/C2319337",
-      "relation": "isReferencedBy",
-      "resource_type": "publication-manuscript"
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
     },
     {
       "identifier": "https://discovery.nationalarchives.gov.uk/details/r/C5143122",
-      "relation": "isReferencedBy",
-      "resource_type": "publication-manuscript"
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
     },
     {
       "identifier": "https://discovery.nationalarchives.gov.uk/details/r/C13554",
-      "relation": "isReferencedBy",
-      "resource_type": "publication-manuscript"
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
     }
   ],
   "communities": [
     {
-      "id": "gis"
+      "identifier": "gis"
     }
   ],
   "subjects": [
@@ -55,7 +54,7 @@
   "creators": [
     {
       "orcid": "0000-0003-3060-0181",
-      "affiliation": "Viae Regiae",
+      "affiliation": "Viae Regiae / Docuracy Ltd",
       "name": "Gadd, Stephen James"
     }
   ],
