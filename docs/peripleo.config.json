@@ -84,14 +84,14 @@
   ],
   "facets":[
   	  "dataset",
-	  { "name": "Legal Quays", "path": [
+	  { "name": "Legal Quays", "path": 
 		  {
 			  "properties": [
 			    { "legal_quay_1566": [ true ] },
 			    { "legal_quay_1566": [ false, null ] }
 			  ]
 	      }
-      ] },
+       },
 	  { "name": "Head Ports", "path": ["properties", "head_port"] }
   ],
   "link_icons": [
