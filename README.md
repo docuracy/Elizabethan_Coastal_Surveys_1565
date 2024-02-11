@@ -1,6 +1,50 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10645537.svg)](https://doi.org/10.5281/zenodo.10645537)
 # Elizabethan Coastal Surveys, 1565
 
+Geolocated transcriptions of surveys commissioned by the English government in 1564 and 1565 to enquire into the state of the ports and landing places of England and Wales. The geographic scope of these surveys can be examined with [*Peripleo*](https://github.com/britishlibrary/peripleo) on the accompanying [GitHub Pages](https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/#/5.55/-3.2923/51.6622/mode=points+facet=dataset).
+
+The transcripts are contained on various tabs in an Excel file in the `/docs` folder, where you can also find the GeoJSON files used by *Peripleo*. They can also be downloaded as a single zipped file from [*Zenodo*](https://zenodo.org/records/10647272).
+
+## Content
+
+### State Papers
+
+### Exchequer Surveys
+
+The information contained in the Exchequer surveys varies from one to another, despite the Commissioners all receiving essentially the same instructions. It has been abstracted into the following headings:
+- **creek**
+- **alias**
+- **inward**
+- **goods_in**
+- **outward**
+- **goods_out**
+- **tbc**
+- **decayed**
+- **repairable**
+- **costs**
+- **customhouse**
+- **inheritance**
+- **rent**
+- **commodious**
+- **repair**
+- **creeks_head_belong_other**
+- **distance_land_water**
+- **shires**
+- **alternative_house**
+- **owner**
+- **value**
+- **years**
+- **customer**
+- **cu_deputy**
+- **controller**
+- **co_deputy**
+- **searcher**
+- **se_deputy**
+- **domestic**
+- **foreign**
+- **evasion**
+- **notes**
+
 ## Sources
 
 ### State Papers
@@ -71,12 +115,3 @@
 - **James Dallaway, [*'A History of the Western Division of the County of Sussex'*](https://www.google.co.uk/books/edition/A_History_of_the_Western_Division_of_the/0VkMAQAAMAAJ?hl=en), (1815)**
   - Chichester (printed transcription, possibly incomplete: original survey not yet located)
 
-![image](https://github.com/docuracy/Elizabethan_Coastal_Surveys_1565/assets/42514781/aa15b0ca-cbfe-4cec-b7c6-6b33d02e87ae)
-
-![image](https://github.com/docuracy/Elizabethan_Coastal_Surveys_1565/assets/42514781/47b8570e-0a4d-4488-a5ce-57d07fb86cb2)
-
-![image](https://github.com/docuracy/Elizabethan_Coastal_Surveys_1565/assets/42514781/b316a6c2-c976-4269-9a8a-49fa3d462e30)
-
-![image](https://github.com/docuracy/Elizabethan_Coastal_Surveys_1565/assets/42514781/5a7e5adb-6c23-46a5-b411-37b0deb51149)
-
-![image](https://github.com/docuracy/Elizabethan_Coastal_Surveys_1565/assets/42514781/c7b52788-73db-41c9-a278-1a6fd571f8a9)
