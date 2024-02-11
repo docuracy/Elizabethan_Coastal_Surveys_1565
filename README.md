@@ -3,6 +3,8 @@
 
 Geolocated transcriptions of surveys commissioned by the English government in 1564 and 1565 to enquire into the state of the ports and landing places of England and Wales. The geographic scope of these surveys can be examined with [*Peripleo*](https://github.com/britishlibrary/peripleo) on the accompanying [GitHub Pages](https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/#/5.55/-3.2923/51.6622/mode=points+facet=dataset).
 
+![image](https://github.com/docuracy/Elizabethan_Coastal_Surveys_1565/assets/42514781/a3893744-2dc7-4d3b-9ee7-a696b0efadfe)
+
 The transcripts are contained on various tabs in an Excel file in the `/docs` folder, where you can also find the GeoJSON files used by *Peripleo*. They can also be downloaded as a single zipped file from [*Zenodo*](https://zenodo.org/records/10647272).
 
 ## Content
