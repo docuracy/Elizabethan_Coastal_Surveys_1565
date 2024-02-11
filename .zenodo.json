@@ -5,32 +5,24 @@
   "language": "eng",
   "related_identifiers": [
     {
-      "scheme": "url",
       "identifier": "https://discovery.nationalarchives.gov.uk/details/r/C2319327",
       "relation": "isReferencedBy",
-      "resource_type": "manuscript-catalog",
-      "catalogue_reference": "E 159/340"
+      "resource_type": "publication-manuscript"
     },
     {
-      "scheme": "url",
       "identifier": "https://discovery.nationalarchives.gov.uk/details/r/C2319337",
       "relation": "isReferencedBy",
-      "resource_type": "manuscript-catalog",
-      "catalogue_reference": "E 159/350"
+      "resource_type": "publication-manuscript"
     },
     {
-      "scheme": "url",
       "identifier": "https://discovery.nationalarchives.gov.uk/details/r/C5143122",
       "relation": "isReferencedBy",
-      "resource_type": "manuscript-catalog",
-      "catalogue_reference": " E 178/1926"
+      "resource_type": "publication-manuscript"
     },
     {
-      "scheme": "url",
       "identifier": "https://discovery.nationalarchives.gov.uk/details/r/C13554",
       "relation": "isReferencedBy",
-      "resource_type": "manuscript-catalog",
-      "catalogue_reference": "SP 12"
+      "resource_type": "publication-manuscript"
     }
   ],
   "communities": [
