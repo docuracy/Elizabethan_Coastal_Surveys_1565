@@ -1,13 +1,13 @@
 cff-version: 1.2.0
-title: 'Elizabethan Coastal Surveys, 1565'
+title: "Elizabethan Coastal Surveys, 1565"
 message: >-
   If you use this dataset, please cite it using the metadata
   from this file.
 type: dataset
 authors:
-  - given-names: Stephen James
+  - given-names: "Stephen James"
     family-names: Gadd
-    orcid: 'https://orcid.org/0000-0003-3060-0181'
+    orcid: "https://orcid.org/0000-0003-3060-0181"
 repository-code: >-
   https://github.com/docuracy/Elizabethan_Coastal_Surveys_1565
 abstract: >-
@@ -22,8 +22,8 @@ keywords:
   - gazetteer
   - england
   - wales
-  - place-names
-  - early modern
+  - "place-names"
+  - "early modern"
   - map
   - quays
 license: CC-BY-4.0
