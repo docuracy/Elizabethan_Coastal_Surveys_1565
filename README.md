@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10645537.svg)](https://doi.org/10.5281/zenodo.10645537)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10645536.svg)](https://doi.org/10.5281/zenodo.10645536)
 # Elizabethan Coastal Surveys, 1565
 
 Geolocated transcriptions of surveys commissioned by the English government in 1564 and 1565 to enquire into the state of the ports and landing places of England and Wales. 
