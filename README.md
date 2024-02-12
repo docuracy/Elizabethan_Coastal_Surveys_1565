@@ -33,6 +33,9 @@ In addition to lists of county Commissioners and their local Deputies, these sur
 >
 >For thexecution of the premisses, A commission under the great seale of England to be directed to iiij, v, or vj of every countie, whereof three at the least to have the authoritie to survey thestate of all havens, creekes, and landing places within the sheere to them limited, and after the view taken to choose and nominate suche personnes as they shall think meete to execute the artyicles above expressed being annexed to the commission, and by vertue of the same commission to authorise them so to doo, and from tyme to tyme during ther commission to change them and appoint others, and generally to doo theyr uttermost for the execution of the articles annexed to the sayd commission and all other things that may seeme to represse piracies and depredacions.
 
+> [!NOTE]
+> This spatial dataset is supplemented with details of Head Ports and Legal Quays operating within Customs Ports in 1566, together with a note of the earliest surviving Port Book in each case.
+
 ### Exchequer Surveys ([sources](#exchequer-surveys))
 
 ![image](https://github.com/docuracy/Elizabethan_Coastal_Surveys_1565/assets/42514781/fea80878-34bb-42d3-ba15-7e74e6237644)
