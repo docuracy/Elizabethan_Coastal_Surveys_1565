@@ -54,11 +54,11 @@
   "creators": [
     {
       "orcid": "0000-0003-3060-0181",
-      "affiliation": "Viae Regiae / Docuracy Ltd",
+      "affiliation": "Docuracy Ltd",
       "name": "Gadd, Stephen James"
     }
   ],
   "license": "CC-BY-4.0",
   "upload_type": "dataset",
-  "description": "<p>This geolocated dataset derives from several surveys commissioned by the English Crown in 1565, enquiring into the state of the various ports, landing places, and coastal communities of England and Wales.</p>"
+  "description": "<p>This geolocated dataset derives from several surveys commissioned by the English Crown in 1565, enquiring into the state of the various ports, landing places, and coastal communities of England and Wales.</p><p>Please see the <a href='https://github.com/docuracy/Elizabethan_Coastal_Surveys_1565' target='_blank'>GitHub repository</a> for details of the sources used and visualisation of their geographic scope.</p>"
 }
