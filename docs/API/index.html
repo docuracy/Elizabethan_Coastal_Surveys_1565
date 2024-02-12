@@ -52,7 +52,7 @@
 
         // Load GeoJSON file based on query parameter
         var params = parseQueryString();
-        var queryParam = params.place || params.exchequer || params.county;
+        var queryParam = params.place || params.exchequer || params.county || params.customs_port;
         var geojsonFile;
 
         if (params.place) {
