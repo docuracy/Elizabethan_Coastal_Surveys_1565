@@ -61,10 +61,9 @@
             geojsonFile = "../data/Exchequer%20spatial.geojson";
         } else if (params.county) {
             geojsonFile = "../data/State%20Papers%20(Counties)%20spatial.geojson";
+        } else if (params.customs_port) {
+            geojsonFile = "../data/Customs%20Ports.geojson";
         }
-
-        console.log("GeoJSON File:", geojsonFile);
-        console.log("Query Parameter:", queryParam);
 
         // Function to format numbers to display only two decimal places
         function formatNumber(value) {
@@ -115,7 +114,6 @@
             xhr.onreadystatechange = function() {
                 if (xhr.readyState === 4 && xhr.status === 200) {
                     var featureCollection = JSON.parse(xhr.responseText);
-                    console.log("Feature Collection:", featureCollection);
                     var featureProperties = extractFeatureProperties(featureCollection, queryParam);
                     console.log("Feature Properties:", featureProperties);
                     if (featureProperties) {
