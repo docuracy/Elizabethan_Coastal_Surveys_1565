@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Transcript</title>
+    <title>Elizabethan Coastal Surveys: Transcript</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway&display=swap">
     <style>
         body {
@@ -26,7 +26,7 @@
     </style>
 </head>
 <body>
-    <h1>GeoJSON Feature Properties</h1>
+    <h1>Transcript</h1>
     <div id="properties"></div>
 
     <script>
@@ -72,10 +72,12 @@
             var table = "<table>";
             for (var prop in properties) {
                 var value = properties[prop];
-                if (typeof value === 'object' && value !== null) {
-                    table += "<tr><th>" + prop + "</th><td>" + createPropertiesTable(value, indent + 1) + "</td></tr>";
-                } else {
-                    table += "<tr><th>" + prop + "</th><td>" + value + "</td></tr>";
+                if (value !== null && value !== undefined) {
+                    if (typeof value === 'object' && value !== null) {
+                        table += "<tr><th>" + prop + "</th><td>" + createPropertiesTable(value, indent + 1) + "</td></tr>";
+                    } else {
+                        table += "<tr><th>" + prop + "</th><td>" + value + "</td></tr>";
+                    }
                 }
             }
             table += "</table>";
