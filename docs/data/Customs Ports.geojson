@@ -1,0 +1,1490 @@
+{
+    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+    "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/Customs_Ports",
+    "features": [
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/d264bb6e-3169-4825-ad70-e6c60df9f3fc",
+            "geometry": {
+                "coordinates": [
+                    1.604157,
+                    52.15469
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Aldeburgh"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/5efc20c4-a03c-4f3c-acae-c3815ad99247",
+            "geometry": {
+                "coordinates": [
+                    -4.19191,
+                    51.05364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Appledore"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/0a335dac-dd95-4048-ad64-d9787925a9bd",
+            "geometry": {
+                "coordinates": [
+                    -0.55237,
+                    50.85414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Arundel"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/78eab2e0-bc71-47ab-9a4b-0c92017f7abf",
+            "geometry": {
+                "coordinates": [
+                    -4.06524,
+                    51.08042
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Barnstaple"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/b5b02738-5a15-4435-90d1-6e04e77d6d90",
+            "geometry": {
+                "coordinates": [
+                    -4.09193,
+                    53.2625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": false,
+                "title": "Beaumaris"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/0343f889-32b2-44b7-91b3-3ad07cf22c58",
+            "geometry": {
+                "coordinates": [
+                    -2.01041,
+                    55.76482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1606,
+                "head_port": true,
+                "legal_quay_1566": false,
+                "title": "Berwick upon Tweed"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/37bbf957-b3c8-4d25-b052-9a918261d87e",
+            "geometry": {
+                "coordinates": [
+                    -4.20529,
+                    51.01939
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1686,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Bideford"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/e97815f2-333d-4295-8765-43efd4f9cda9",
+            "geometry": {
+                "coordinates": [
+                    1.013598,
+                    52.95574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": false,
+                "title": "Blakeney"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/c5bd4e39-cc0f-40a8-a4f2-a6ac15f43f66",
+            "geometry": {
+                "coordinates": [
+                    -0.02191,
+                    52.96863
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Boston"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/0e7d9535-b232-40ad-8383-6f2870dbc252",
+            "geometry": {
+                "coordinates": [
+                    -3.10607,
+                    54.92957
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Boustead Hill"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/16f70c1d-5e31-4a43-824e-dd3567d7f540",
+            "geometry": {
+                "coordinates": [
+                    -3.00174,
+                    51.13009
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1567,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Bridgwater"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/109a0cd8-fa51-4c81-a8b5-07eb0edba6a6",
+            "geometry": {
+                "coordinates": [
+                    -0.18922,
+                    54.08145
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1613,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Bridlington"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/791b2e44-fc83-4991-af5a-9f400d4d42c4",
+            "geometry": {
+                "coordinates": [
+                    -2.61212,
+                    51.44837
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Bristol"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/fdaf9d8f-78d1-4610-8835-f9e1a3c918ec",
+            "geometry": {
+                "coordinates": [
+                    -3.15131,
+                    51.46272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1579,
+                "head_port": true,
+                "legal_quay_1566": false,
+                "title": "Cardiff"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/cbcb7374-283e-43ed-8abb-8cdf84379dea",
+            "geometry": {
+                "coordinates": [
+                    -2.95767,
+                    54.90461
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1610,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Carlisle"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/61137d9c-eb01-45a1-889e-7e3c388a4c43",
+            "geometry": {
+                "coordinates": [
+                    -4.30772,
+                    51.85523
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": false,
+                "title": "Carmarthen"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/bd21859d-a5c2-4afc-afd7-b9eb1c5ef076",
+            "geometry": {
+                "coordinates": [
+                    -4.27597,
+                    53.14485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": false,
+                "title": "Caernarfon"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/28956618-b227-4bba-baf8-b837ddc233c8",
+            "geometry": {
+                "coordinates": [
+                    -2.669,
+                    51.63902
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1579,
+                "head_port": false,
+                "legal_quay_1566": false,
+                "title": "Chepstow"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/791ce04c-efc4-42d1-b338-847ef39f6731",
+            "geometry": {
+                "coordinates": [
+                    -2.92845,
+                    53.18088
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Chester"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/e0f3a2bb-ae7b-4d98-8350-54725e059692",
+            "geometry": {
+                "coordinates": [
+                    -0.81682,
+                    50.8192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1566,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Chichester"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/102d4b34-f93c-4220-8207-ba88b1e45dc5",
+            "geometry": {
+                "coordinates": [
+                    1.040496,
+                    52.95473
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Cley"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/49355738-c25f-4fa3-9e33-41eed8e59780",
+            "geometry": {
+                "coordinates": [
+                    0.940442,
+                    51.87076
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Colchester"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/e77bae0b-a29a-48da-96df-ae82ba620ee5",
+            "geometry": {
+                "coordinates": [
+                    -3.84271,
+                    53.29125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": false,
+                "title": "Conwy"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/b0715623-831c-4eaa-af3b-ff447bce58ad",
+            "geometry": {
+                "coordinates": [
+                    -3.57736,
+                    50.34896
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Dartmouth"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/774cdfef-9f01-4354-bda2-e237d8ea9e3b",
+            "geometry": {
+                "coordinates": [
+                    1.325155,
+                    51.12957
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1567,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Dover"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/086c7e7a-a801-4774-8cdf-ff9ee71c4ea8",
+            "geometry": {
+                "coordinates": [
+                    1.632437,
+                    52.27869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Dunwich"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/be3ff3d3-c4f7-4413-a2eb-d116800c466b",
+            "geometry": {
+                "coordinates": [
+                    -3.50091,
+                    54.71343
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Maryport"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/e79a6eb3-7db7-4279-ba25-0d0a33c9b889",
+            "geometry": {
+                "coordinates": [
+                    -3.53131,
+                    50.71835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Exeter"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/b1bac8b7-8a5c-47c5-b2a6-e7fa20408c37",
+            "geometry": {
+                "coordinates": [
+                    0.894122,
+                    51.33604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Faversham"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/98d8c541-6e33-4320-b898-3fd6eb72b4c5",
+            "geometry": {
+                "coordinates": [
+                    -0.28409,
+                    54.20957
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Filey"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/d8222533-0699-4144-89a6-90ce498534d1",
+            "geometry": {
+                "coordinates": [
+                    -0.11776,
+                    54.10329
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Flamborough"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/ef2d3c69-d91a-46b3-9d0e-f83b478e7cf3",
+            "geometry": {
+                "coordinates": [
+                    1.186719,
+                    51.07882
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1568,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Folkestone"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/6a630d3f-c9a1-4a4b-a3da-f24ddd0ad985",
+            "geometry": {
+                "coordinates": [
+                    -4.63414,
+                    50.34051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Fowey"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/abae84b0-9307-4aca-acdd-44395bdfba1f",
+            "geometry": {
+                "coordinates": [
+                    -2.25203,
+                    51.86297
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1575,
+                "head_port": true,
+                "legal_quay_1566": false,
+                "title": "Gloucester"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/9924a2b5-b596-4785-951f-53c0f965a2fa",
+            "geometry": {
+                "coordinates": [
+                    -0.07509,
+                    53.57813
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": false,
+                "title": "Grimsby"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/806399e1-397f-4644-809c-118589fcce39",
+            "geometry": {
+                "coordinates": [
+                    -1.20721,
+                    54.6999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1579,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Hartlepool"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/fc0bf177-a2f2-4c66-b242-c44d5106d7ca",
+            "geometry": {
+                "coordinates": [
+                    0.572905,
+                    50.85242
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1566,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Hastings"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/e1942e47-505f-4c5d-9253-6e1d0a3cf8a0",
+            "geometry": {
+                "coordinates": [
+                    -5.27686,
+                    50.1005
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Helston"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/38699489-e877-4878-8cbf-2b03dded205a",
+            "geometry": {
+                "coordinates": [
+                    -0.28802,
+                    53.74401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Hull"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/c3c4c45a-d688-4a8f-9794-bce650a90cc2",
+            "geometry": {
+                "coordinates": [
+                    1.08039,
+                    51.06489
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Hythe"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/07630141-6d65-493d-b5dd-1fc6de94abed",
+            "geometry": {
+                "coordinates": [
+                    -4.11596,
+                    51.20914
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Ilfracombe"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/b909f49f-0a83-412c-8982-478e9d96239f",
+            "geometry": {
+                "coordinates": [
+                    1.152871,
+                    52.05257
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Ipswich"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/18aedc45-dd6d-44f0-aaa5-28c3dd4809d9",
+            "geometry": {
+                "coordinates": [
+                    0.392046,
+                    52.75965
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Kings Lynn"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/66071346-ae1a-4a68-8af2-396f865472b9",
+            "geometry": {
+                "coordinates": [
+                    -2.81241,
+                    54.0544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1579,
+                "head_port": false,
+                "legal_quay_1566": false,
+                "title": "Lancaster"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/9d324b48-d9e4-4219-ac55-419f306238f2",
+            "geometry": {
+                "coordinates": [
+                    0.015565,
+                    50.87389
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Lewes"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/c78b7a04-bd11-4299-9297-1164c6a458bb",
+            "geometry": {
+                "coordinates": [
+                    -2.98969,
+                    53.40214
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": false,
+                "title": "Liverpool"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/49f7e30a-72c3-4371-a3f8-f087d17b5323",
+            "geometry": {
+                "coordinates": [
+                    -0.1239,
+                    51.50735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "London"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/a1d14b0e-7b13-4313-a9f2-55671b13c2a3",
+            "geometry": {
+                "coordinates": [
+                    -4.45505,
+                    50.35616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": false,
+                "title": "Looe"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/876a0497-bac0-4341-a113-b3da76c60de0",
+            "geometry": {
+                "coordinates": [
+                    -2.24707,
+                    50.61812
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Lulworth"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/5aa01181-cc07-4d21-a5e5-34d5cbddc03d",
+            "geometry": {
+                "coordinates": [
+                    -2.93944,
+                    50.7201
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Lyme Regis"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/da9ffafd-1e9b-4c19-a1db-020fb1fc3259",
+            "geometry": {
+                "coordinates": [
+                    0.685051,
+                    51.73213
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1568,
+                "head_port": false,
+                "legal_quay_1566": false,
+                "title": "Maldon"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/fd27e6d7-761b-4a77-8a2e-44b1e5fbc861",
+            "geometry": {
+                "coordinates": [
+                    0.047928,
+                    50.7974
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Meeching"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/8381dc8b-3a81-4c99-bd69-75e0b72a37d7",
+            "geometry": {
+                "coordinates": [
+                    -5.04401,
+                    51.71287
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": true,
+                "legal_quay_1566": false,
+                "title": "Milford Haven"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/8406c89c-b4ac-4ae3-b9fd-37bcac9f6a83",
+            "geometry": {
+                "coordinates": [
+                    0.752461,
+                    51.35203
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1568,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Milton"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/3c75d61b-fc1a-44bd-8576-be08bc634167",
+            "geometry": {
+                "coordinates": [
+                    -3.47706,
+                    51.21457
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1566,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Minehead"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/c0bb4a51-51ad-49ed-96c6-b119352359ab",
+            "geometry": {
+                "coordinates": [
+                    -1.59967,
+                    54.97097
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1593,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Newcastle"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/b665ba87-5866-474c-afc6-c1328381f500",
+            "geometry": {
+                "coordinates": [
+                    -1.29193,
+                    50.70542
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Newport, Isle of Wight"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/b32e62b6-26c9-4818-98b4-b8d231646125",
+            "geometry": {
+                "coordinates": [
+                    -4.93903,
+                    50.54043
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Padstow"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/6cda8f17-bba2-483b-b4f6-7dbd940c2a86",
+            "geometry": {
+                "coordinates": [
+                    -5.09868,
+                    50.16759
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Penryn"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/10bd5d47-c8f3-4962-b911-9ba049743fc8",
+            "geometry": {
+                "coordinates": [
+                    -5.53276,
+                    50.12124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Penzance"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/f4bbc5fc-ce69-4a30-9bb4-d98ffe68e856",
+            "geometry": {
+                "coordinates": [
+                    0.327404,
+                    50.79091
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Pevensey"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/79201513-1e74-41e1-ab48-29dac4f75706",
+            "geometry": {
+                "coordinates": [
+                    -4.13507,
+                    50.3697
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Plymouth"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/40825d6f-d504-405a-a49b-d3bd5c829614",
+            "geometry": {
+                "coordinates": [
+                    -1.98837,
+                    50.71213
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Poole"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/160f0a69-e7ee-4095-b4b0-fb3bcbce6d47",
+            "geometry": {
+                "coordinates": [
+                    -1.11041,
+                    50.7927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1612,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Portsmouth"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/d57cc0f8-82f2-4132-80ee-25e0ae440350",
+            "geometry": {
+                "coordinates": [
+                    -3.41207,
+                    54.35316
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Ravenglass"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/99099aad-aeed-4312-8f32-d811cca651ac",
+            "geometry": {
+                "coordinates": [
+                    0.506516,
+                    51.39138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Rochester"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/3d4bbe26-494c-470c-8eb0-5c5c0a05dc54",
+            "geometry": {
+                "coordinates": [
+                    0.973594,
+                    50.9807
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Romney"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/c95b9ed5-a461-4df0-b9df-3b1615106298",
+            "geometry": {
+                "coordinates": [
+                    0.760884,
+                    50.93853
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1566,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Rye"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/d879ed16-5144-41ac-a109-3686151e6169",
+            "geometry": {
+                "coordinates": [
+                    0.194153,
+                    53.41831
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Saltfleet"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/9751d91f-7765-43d4-bc54-3d6c7a946d9e",
+            "geometry": {
+                "coordinates": [
+                    1.341445,
+                    51.27601
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1568,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Sandwich"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/188fd315-dd6b-45b9-9876-9b3bc5039580",
+            "geometry": {
+                "coordinates": [
+                    -0.38966,
+                    54.28406
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Scarborough"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/acaedcd6-9c9c-4559-afc9-50daa5522aac",
+            "geometry": {
+                "coordinates": [
+                    -0.25344,
+                    50.83049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Shoreham"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/11e63f6b-7adc-40b7-93e6-52a9c63acbc4",
+            "geometry": {
+                "coordinates": [
+                    -1.40272,
+                    50.89617
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Southampton"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/a1596117-c300-4b18-b2be-d9518fd445d3",
+            "geometry": {
+                "coordinates": [
+                    -0.13592,
+                    52.80044
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1675,
+                "head_port": false,
+                "legal_quay_1566": false,
+                "title": "Spalding"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/f215469e-9e52-46d2-80ef-764fc1f94743",
+            "geometry": {
+                "coordinates": [
+                    -5.47898,
+                    50.21565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "St Ives"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/db919deb-b6d3-42f7-83d2-ce4c4904a967",
+            "geometry": {
+                "coordinates": [
+                    -1.31133,
+                    54.56109
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1615,
+                "head_port": false,
+                "legal_quay_1566": false,
+                "title": "Stockton on Tees"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/974f3fcc-6bd1-41b7-9ac8-a24ed4a9a201",
+            "geometry": {
+                "coordinates": [
+                    -1.36161,
+                    54.90717
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1611,
+                "head_port": false,
+                "legal_quay_1566": false,
+                "title": "Sunderland"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/952e1f93-b30d-4c1b-995e-1273f57c3ee7",
+            "geometry": {
+                "coordinates": [
+                    -3.91936,
+                    51.61649
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1579,
+                "head_port": false,
+                "legal_quay_1566": false,
+                "title": "Swansea"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/4fd92987-56bf-4bee-bf93-0c4f890983d4",
+            "geometry": {
+                "coordinates": [
+                    -5.04796,
+                    50.26272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Truro"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/a49392d3-be65-4779-bbba-b4d04c796850",
+            "geometry": {
+                "coordinates": [
+                    0.319769,
+                    53.09633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Wainfleet Haven"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/246b5c13-cdf8-4f67-ac69-44c877efefdb",
+            "geometry": {
+                "coordinates": [
+                    -2.45978,
+                    50.60705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Weymouth"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/64f7e474-4dac-49f2-a6cb-0ceb7ae46cbd",
+            "geometry": {
+                "coordinates": [
+                    -0.61479,
+                    54.48831
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1592,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Whitby"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/f5ef6757-bc9d-4403-b9f0-8b190fa073aa",
+            "geometry": {
+                "coordinates": [
+                    -3.59289,
+                    54.54992
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1687,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Whitehaven"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/ae47ba96-d98c-46f3-ae76-2fc426940ebe",
+            "geometry": {
+                "coordinates": [
+                    0.724113,
+                    50.90954
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1565,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Winchelsea"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/9b449b63-cd89-4940-a1a5-bdd0060e7930",
+            "geometry": {
+                "coordinates": [
+                    1.32197,
+                    52.09102
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1566,
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Woodbridge"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/a6432b2e-a0ff-4dd6-85ea-54cb38376ac2",
+            "geometry": {
+                "coordinates": [
+                    -3.56481,
+                    54.6486
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "head_port": false,
+                "legal_quay_1566": true,
+                "title": "Workington"
+            },
+            "type": "Feature"
+        },
+        {
+            "@id": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/API/?customs_port==Customs%20Ports/3769efdf-a76e-4e97-829a-896ba252c3f7",
+            "geometry": {
+                "coordinates": [
+                    1.725869,
+                    52.59235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "earliest_surviving_pb": 1566,
+                "head_port": true,
+                "legal_quay_1566": true,
+                "title": "Yarmouth, Great"
+            },
+            "type": "Feature"
+        }
+    ],
+    "indexing": {
+        "@type": "Dataset",
+        "description": "",
+        "identifier": "https://docuracy.github.io/Elizabethan_Coastal_Surveys_1565/Customs_Ports",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "name": "Customs Ports",
+        "spatialCoverage": {
+            "@type": "GeoShape",
+            "box": "0.580101 0.00149 60.355 9.78667",
+            "geo": {
+                "@type": "GeoShape",
+                "box": "50.1005 0.015565 55.76482 5.53276"
+            }
+        },
+        "temporalCoverage": "1066/2022"
+    },
+    "type": "FeatureCollection"
+}
