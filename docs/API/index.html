@@ -39,7 +39,8 @@
         // Extract properties of a single feature from GeoJSON FeatureCollection
         function extractFeatureProperties(featureCollection, id) {
             var feature = featureCollection.features.find(function(feat) {
-                return feat.properties.id === id;
+                var featId = feat["@id"];
+                return featId.substring(featId.lastIndexOf('=') + 1) === id;
             });
             return feature ? feature.properties : null;
         }
