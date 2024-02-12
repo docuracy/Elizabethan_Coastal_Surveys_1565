@@ -1,2 +1,84 @@
-NOT YET IMPLEMENTED.
-Please download the Excel file in the docs/data folder.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GeoJSON Feature Properties</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>GeoJSON Feature Properties</h1>
+    <div id="properties"></div>
+
+    <script>
+        // Function to parse query string from URL
+        function parseQueryString() {
+            var queryString = window.location.search.substring(1);
+            var params = {};
+            var queryParams = queryString.split("&");
+            for (var i = 0; i < queryParams.length; i++) {
+                var pair = queryParams[i].split("=");
+                params[pair[0]] = decodeURIComponent(pair[1]);
+            }
+            return params;
+        }
+
+        // Extract properties of a single feature from GeoJSON FeatureCollection
+        function extractFeatureProperties(featureCollection, id) {
+            var feature = featureCollection.features.find(function(feat) {
+                return feat.properties.id === id;
+            });
+            return feature ? feature.properties : null;
+        }
+
+        // Load GeoJSON file based on query parameter
+        var params = parseQueryString();
+        var queryParam = params.place || params.exchequer || params.county;
+        var geojsonFile;
+
+        if (params.place) {
+            geojsonFile = "/data/State%20Papers%20(Places)%20spatial.geojson";
+        } else if (params.exchequer) {
+            geojsonFile = "/data/Exchequer%20spatial.geojson";
+        } else if (params.county) {
+            geojsonFile = "/data/State%20Papers%20(Counties)%20spatial.geojson";
+        }
+
+        // Load GeoJSON file and extract feature properties
+        if (geojsonFile && queryParam) {
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", geojsonFile, true);
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    var featureCollection = JSON.parse(xhr.responseText);
+                    var featureProperties = extractFeatureProperties(featureCollection, queryParam);
+                    if (featureProperties) {
+                        var propertiesTable = "<table>";
+                        for (var prop in featureProperties) {
+                            propertiesTable += "<tr><th>" + prop + "</th><td>" + featureProperties[prop] + "</td></tr>";
+                        }
+                        propertiesTable += "</table>";
+                        document.getElementById("properties").innerHTML = propertiesTable;
+                    }
+                }
+            };
+            xhr.send();
+        } else {
+            document.getElementById("properties").innerHTML = "Invalid query parameters.";
+        }
+    </script>
+</body>
+</html>
