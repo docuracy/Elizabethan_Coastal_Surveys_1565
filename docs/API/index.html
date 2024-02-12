@@ -11,9 +11,7 @@
         }
         table {
             border-collapse: collapse;
-            width: 100%;
-            margin-top: 20px;
-            font-size: 14px;
+            font-size: 12px;
         }
         th, td {
             border: 1px solid #dddddd;
@@ -22,6 +20,7 @@
         }
         th {
             background-color: #f2f2f2;
+            text-align: right;
         }
     </style>
 </head>
@@ -67,6 +66,17 @@
         console.log("GeoJSON File:", geojsonFile);
         console.log("Query Parameter:", queryParam);
 
+        // Function to format numbers to display only two decimal places
+        function formatNumber(value) {
+            if (typeof value === 'number') {
+                return value.toFixed(2);
+            } else if (!isNaN(parseFloat(value))) {
+                return parseFloat(value).toFixed(2);
+            } else {
+                return value;
+            }
+        }
+
         // Function to recursively create a tabulated representation of feature properties
         function createPropertiesTable(properties, indent) {
             var table = "<table>";
@@ -76,7 +86,7 @@
                     if (typeof value === 'object' && value !== null) {
                         table += "<tr><th>" + prop + "</th><td>" + createPropertiesTable(value, indent + 1) + "</td></tr>";
                     } else {
-                        table += "<tr><th>" + prop + "</th><td>" + value + "</td></tr>";
+                        table += "<tr><th>" + prop + "</th><td>" + formatNumber(value) + "</td></tr>";
                     }
                 }
             }
