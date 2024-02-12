@@ -69,9 +69,18 @@
         // Function to format numbers to display only two decimal places
         function formatNumber(value) {
             if (typeof value === 'number') {
-                return value.toFixed(2);
+                if (Number.isInteger(value)) {
+                    return value.toString(); // If integer, return without decimal places
+                } else {
+                    return value.toFixed(2); // Otherwise, return with two decimal places
+                }
             } else if (!isNaN(parseFloat(value))) {
-                return parseFloat(value).toFixed(2);
+                var floatValue = parseFloat(value);
+                if (Number.isInteger(floatValue)) {
+                    return floatValue.toString(); // If integer, return without decimal places
+                } else {
+                    return floatValue.toFixed(2); // Otherwise, return with two decimal places
+                }
             } else {
                 return value;
             }
@@ -82,11 +91,17 @@
             var table = "<table>";
             for (var prop in properties) {
                 var value = properties[prop];
-                if (value !== null && value !== undefined) {
+                if (value !== null && value !== undefined && value !== "") {
                     if (typeof value === 'object' && value !== null) {
                         table += "<tr><th>" + prop + "</th><td>" + createPropertiesTable(value, indent + 1) + "</td></tr>";
                     } else {
-                        table += "<tr><th>" + prop + "</th><td>" + formatNumber(value) + "</td></tr>";
+                        // Add " (mean)" to non-integer values of fishermen_per_vessel and mariners_per_vessel
+                        if ((prop === 'fishermen_per_vessel' || prop === 'mariners_per_vessel') && !Number.isInteger(value)) {
+                            value = value.toFixed(2) + " (mean)";
+                        } else {
+                            value = formatNumber(value);
+                        }
+                        table += "<tr><th>" + prop + "</th><td>" + value + "</td></tr>";
                     }
                 }
             }
