@@ -70,14 +70,14 @@
         function formatNumber(value) {
             if (typeof value === 'number') {
                 if (Number.isInteger(value)) {
-                    return value.toString(); // If integer, return without decimal places
+                    return value // If integer, return as is
                 } else {
                     return value.toFixed(2); // Otherwise, return with two decimal places
                 }
             } else if (!isNaN(parseFloat(value))) {
                 var floatValue = parseFloat(value);
                 if (Number.isInteger(floatValue)) {
-                    return floatValue.toString(); // If integer, return without decimal places
+                    return floatValue; // If integer, return as is
                 } else {
                     return floatValue.toFixed(2); // Otherwise, return with two decimal places
                 }
