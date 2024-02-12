@@ -61,6 +61,21 @@
         console.log("GeoJSON File:", geojsonFile);
         console.log("Query Parameter:", queryParam);
 
+        // Function to recursively create a tabulated representation of feature properties
+        function createPropertiesTable(properties, indent) {
+            var table = "<table>";
+            for (var prop in properties) {
+                var value = properties[prop];
+                if (typeof value === 'object' && value !== null) {
+                    table += "<tr><th>" + prop + "</th><td>" + createPropertiesTable(value, indent + 1) + "</td></tr>";
+                } else {
+                    table += "<tr><th>" + prop + "</th><td>" + value + "</td></tr>";
+                }
+            }
+            table += "</table>";
+            return table;
+        }
+        
         // Load GeoJSON file and extract feature properties
         if (geojsonFile && queryParam) {
             var xhr = new XMLHttpRequest();
@@ -72,11 +87,7 @@
                     var featureProperties = extractFeatureProperties(featureCollection, queryParam);
                     console.log("Feature Properties:", featureProperties);
                     if (featureProperties) {
-                        var propertiesTable = "<table>";
-                        for (var prop in featureProperties) {
-                            propertiesTable += "<tr><th>" + prop + "</th><td>" + featureProperties[prop] + "</td></tr>";
-                        }
-                        propertiesTable += "</table>";
+                        var propertiesTable = createPropertiesTable(featureProperties, 0);
                         document.getElementById("properties").innerHTML = propertiesTable;
                     }
                 }
@@ -84,7 +95,8 @@
             xhr.send();
         } else {
             document.getElementById("properties").innerHTML = "Invalid query parameters.";
-        }
+        }   
+        
     </script>
 </body>
 </html>
