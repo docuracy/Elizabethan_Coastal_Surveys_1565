@@ -57,6 +57,9 @@
             geojsonFile = "../data/State%20Papers%20(Counties)%20spatial.geojson";
         }
 
+        console.log("GeoJSON File:", geojsonFile);
+        console.log("Query Parameter:", queryParam);
+
         // Load GeoJSON file and extract feature properties
         if (geojsonFile && queryParam) {
             var xhr = new XMLHttpRequest();
@@ -64,7 +67,9 @@
             xhr.onreadystatechange = function() {
                 if (xhr.readyState === 4 && xhr.status === 200) {
                     var featureCollection = JSON.parse(xhr.responseText);
+                    console.log("Feature Collection:", featureCollection);
                     var featureProperties = extractFeatureProperties(featureCollection, queryParam);
+                    console.log("Feature Properties:", featureProperties);
                     if (featureProperties) {
                         var propertiesTable = "<table>";
                         for (var prop in featureProperties) {
