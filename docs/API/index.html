@@ -97,7 +97,7 @@
                     } else {
                         // Add " (mean)" to non-integer values of fishermen_per_vessel and mariners_per_vessel
                         if ((prop === 'fishermen_per_vessel' || prop === 'mariners_per_vessel') && !Number.isInteger(value)) {
-                            value = value.toFixed(2) + " (mean)";
+                            value = formatNumber(value) + " (mean)";
                         } else {
                             value = formatNumber(value);
                         }
