@@ -95,12 +95,11 @@
                     if (typeof value === 'object' && value !== null) {
                         table += "<tr><th>" + prop + "</th><td>" + createPropertiesTable(value, indent + 1) + "</td></tr>";
                     } else {
+                        value = formatNumber(value);
                         // Add " (mean)" to non-integer values of fishermen_per_vessel and mariners_per_vessel
                         if ((prop === 'fishermen_per_vessel' || prop === 'mariners_per_vessel') && !Number.isInteger(value)) {
-                            value = formatNumber(value) + " (mean)";
-                        } else {
-                            value = formatNumber(value);
-                        }
+                            value = value + " (mean)";
+                        } 
                         table += "<tr><th>" + prop + "</th><td>" + value + "</td></tr>";
                     }
                 }
