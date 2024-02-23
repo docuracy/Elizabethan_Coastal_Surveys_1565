@@ -77,9 +77,9 @@ The information contained in the Exchequer surveys varies from one to another, d
 - ***MISSING* Please get in touch if you can identify a source for the following:**
   - Cambridgeshire (Isle of Ely)
   - Cheshire
-  - Cornwall
+  - Cornwall [1578: SP 12/122 f.13 (not transcribed)]
   - Devon
-  - Glamorgan
+  - Glamorgan [1578: SP 12/122 f.26 (not transcribed)]
   - Gloucestershire
   - Lancashire
   - Middlesex
